@@ -25,8 +25,6 @@ Assim, o usuário descreve o tipo de filme que quer, e o sistema retorna as 5 ob
   Conversão da sinopse para vetor  
 - **n8n Cloud (Free Trial)**  
   Workflow automatizado (Webhook → Embedding → Busca → Resposta)  
-- **Python**  
-  Script de ingestão das sinopses no Supabase  
 - **cURL / Postman**  
   Para testar o webhook  
 
