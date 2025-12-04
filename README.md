@@ -25,7 +25,18 @@ Assim, o usuário descreve o tipo de filme que quer, e o sistema retorna as 5 ob
 
 ---
 
-## 🎥 Link do vídeo
+## 🖼️ Capturas de Tela
+
+### 📌 Estrutura de Dados – Supabase  
+![](images/data.png)
+
+### 📌 Fluxo no n8n – Overflow  
+![](images/overflow.png)
+
+---
+
+## 🎥 Vídeo Demonstrativo
+
 **Adicione aqui seu link do YouTube após gravar o vídeo demonstrativo:**
 
 👉 https://youtu.be/WTCA7Cw_1D4
